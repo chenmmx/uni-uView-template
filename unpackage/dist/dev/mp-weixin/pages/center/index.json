@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "u-keyboard": "/uview-ui/components/u-keyboard/u-keyboard"
+  }
+}

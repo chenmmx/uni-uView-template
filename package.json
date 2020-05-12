@@ -1,0 +1,10 @@
+{
+  "name": "we-share",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenmmx",
+  "license": "MIT",
+  "dependencies": {
+    "vuex-persistedstate": "^3.0.1"
+  }
+}

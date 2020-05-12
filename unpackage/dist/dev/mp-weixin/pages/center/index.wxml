@@ -1,0 +1,1 @@
+<view class="content data-v-e7e616c2"><u-keyboard bind:input="__e" vue-id="14680395-1" mode="car" data-ref="uKeyboard" value="{{show}}" data-event-opts="{{[['^input',[['__set_model',['','show','$event',[]]]]]]}}" class="data-v-e7e616c2 vue-ref" bind:__l="__l"></u-keyboard></view>
