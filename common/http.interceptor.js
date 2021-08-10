@@ -40,7 +40,8 @@ const install = (Vue, vm) => {
 			}, 1500)
 			return false;
 		} else {
-			vm.$u.toast(res.errorMsg);
+			console.log(11111);
+			// vm.$u.toast('你是傻逼吗？');
 			// 如果返回false，则会调用Promise的reject回调，
 			// 并将进入this.$u.post(url).then().catch(res=>{})的catch回调中，res为服务端的返回值
 			return false;

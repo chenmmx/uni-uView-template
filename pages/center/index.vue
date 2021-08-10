@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		<u-keyboard ref="uKeyboard" mode="car" v-model="show"></u-keyboard>
+		<!-- <u-keyboard ref="uKeyboard" mode="car" v-model="show"></u-keyboard> -->
 	</view>
 </template>
 
